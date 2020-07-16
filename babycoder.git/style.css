@@ -1,0 +1,35 @@
+.Center {
+    text-align: center;
+}
+.emphasize {
+    font-weight:bolder;
+}
+.Huge {
+    font-size: larger;
+}
+.red {
+    color: red;
+}
+.green {
+    color: green;
+}
+.orange {
+    color: orange;
+}
+.blue {
+    color: blue;
+}
+.font-style {
+    font-style: italic;
+}
+.multiple {
+    font-size: 40px;
+}
+.styledFont {
+    color: green; font-style: cursive;
+}
+#big { font-size: large;}
+#tiny { font-size: small;}
+#red {color: red;}
+#blue {color: blue;}
+.pointover:hover { background-color: yellowgreen;}
